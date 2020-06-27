@@ -6,7 +6,7 @@
   <link href="/hotakahattori.github.io/atom.xml" rel="self"/>
   
   <link href="https://hotakahattori.github.io/hotakahattori.github.io/"/>
-  <updated>2020-06-27T15:02:39.604Z</updated>
+  <updated>2020-06-27T15:22:34.705Z</updated>
   <id>https://hotakahattori.github.io/hotakahattori.github.io/</id>
   
   <author>
@@ -21,27 +21,30 @@
     <link href="https://hotakahattori.github.io/hotakahattori.github.io/2020/06/27/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/"/>
     <id>https://hotakahattori.github.io/hotakahattori.github.io/2020/06/27/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</id>
     <published>2020-06-27T13:39:39.000Z</published>
-    <updated>2020-06-27T15:02:39.604Z</updated>
+    <updated>2020-06-27T15:22:34.705Z</updated>
     
-    <content type="html"><![CDATA[<p>はじめまして，服部と申します。</p><!-- toc --><!-- tocstop -->]]></content>
+    <content type="html"><![CDATA[<p>はじめまして，服部と申します。</p><h1><span id="目次">目次</span></h1><!-- toc --><ul><li><a href="#経歴">経歴</a></li><li><a href="#研究">研究</a><ul><li><a href="#趣味">趣味</a></li></ul></li></ul><!-- tocstop --><h1><span id="経歴">経歴</span></h1><h1><span id="研究">研究</span></h1><h3><span id="趣味">趣味</span></h3>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;はじめまして，服部と申します。&lt;/p&gt;
-&lt;!-- toc --&gt;
+&lt;h1&gt;&lt;span id=&quot;目次&quot;&gt;目次&lt;/span&gt;&lt;/h1&gt;&lt;!-- toc --&gt;
 
-
-
-&lt;!-- tocstop --&gt;
-
-
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#経歴&quot;&gt;経歴&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#研究&quot;&gt;研究&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a 
       
     
     </summary>
     
     
+      <category term="数学, 数理最適化" scheme="https://hotakahattori.github.io/hotakahattori.github.io/categories/%E6%95%B0%E5%AD%A6-%E6%95%B0%E7%90%86%E6%9C%80%E9%81%A9%E5%8C%96/"/>
+    
+    
+      <category term="数学" scheme="https://hotakahattori.github.io/hotakahattori.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
     
   </entry>
   
