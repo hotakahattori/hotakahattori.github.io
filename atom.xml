@@ -6,7 +6,7 @@
   <link href="/hotakahattori.github.io/atom.xml" rel="self"/>
   
   <link href="https://hotakahattori.github.io/hotakahattori.github.io/"/>
-  <updated>2020-06-29T10:53:49.438Z</updated>
+  <updated>2020-06-29T10:56:48.411Z</updated>
   <id>https://hotakahattori.github.io/hotakahattori.github.io/</id>
   
   <author>
@@ -21,9 +21,17 @@
     <link href="https://hotakahattori.github.io/hotakahattori.github.io/2020/06/29/test/"/>
     <id>https://hotakahattori.github.io/hotakahattori.github.io/2020/06/29/test/</id>
     <published>2020-06-29T10:53:49.000Z</published>
-    <updated>2020-06-29T10:53:49.438Z</updated>
+    <updated>2020-06-29T10:56:48.411Z</updated>
+    
+    <content type="html"><![CDATA[<p>aaa</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;aaa&lt;/p&gt;
+
+      
     
     </summary>
     
